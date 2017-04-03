@@ -1,3 +1,6 @@
 # Compiled files
 *.tfstate
 *.tfstate.backup
+*.tfvars
+*key*
+awscli.1.conf
